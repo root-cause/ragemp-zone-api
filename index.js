@@ -58,7 +58,7 @@ mp.world.getTypeOfZone = function(coords) {
     return "countryside";
 };
 
-// (1.2.0) RAGEMP-like syntax
+// (1.1.0) RAGEMP-like syntax
 mp.world.zone = {
     getName2d: mp.world.getNameOfZone2D,
     getName3d: mp.world.getNameOfZone3D,
